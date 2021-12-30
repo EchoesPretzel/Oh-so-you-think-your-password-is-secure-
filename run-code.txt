@@ -1,0 +1,5 @@
+copy and paste the code into a python IDE such as Repl.it or whatever this is:
+https://www.online-python.com/
+Click run
+put in the password
+realize your insecurities
